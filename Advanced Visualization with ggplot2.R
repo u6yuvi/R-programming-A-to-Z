@@ -160,7 +160,7 @@ s+geom_density(aes(fill=Genre))
 s+geom_density(aes(fill=Genre),position = "stack")
 #chart3
 
-#----Sarting  Layer Tips
+#----Starting  Layer Tips
 
 t<- ggplot(data=movies,aes(x=AudienceRating))
 t
